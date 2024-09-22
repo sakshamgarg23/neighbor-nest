@@ -1,4 +1,4 @@
-# neighbor-goods
+# neighbour-goods
 # NeighbourGoods
 
 NeighbourGoods is a web application that allows users to buy, sell, trade, exchange, or rent various products within their neighborhood. This project provides a platform for local commerce, making it easier for users to find and connect with neighbors for their purchasing or trading needs.
